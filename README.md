@@ -13,7 +13,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ```bash
 git clone https://github.com/Sametbozokk/kodluyoruzilkrepo.git
-´´´
+```
+
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
